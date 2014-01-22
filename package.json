@@ -3,13 +3,17 @@
     "description": "An easy way to send JSON over TCP using sockets.",
     "main": "./lib/json-socket",
     "author": "Sebastian Seilund",
-    "version": "0.1.2",
+    "contributors": [
+      {
+        "name": "Michał Prokopowicz",
+        "email": "michal.prokopowicz@homersoft.com",
+        "url": "http://www.homersoft.com"
+      }
+    ],
+    "version": "0.1.3",
     "repository" : {
         "type" : "git",
-        "url" : "http://github.com/sebastianseilund/node-json-socket.git"
-    },
-    "bugs" : {
-        "url" : "http://github.com/sebastianseilund/node-json-socket/issues"
+        "url" : "https://github.com/homersoft/node-json-socket.git"
     },
     "maintainers": [{
         "name": "Sebastian Seilund",
